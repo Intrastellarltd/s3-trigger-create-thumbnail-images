@@ -1,4 +1,4 @@
-# Using an Amazon S3 trigger to create thumbnail images
+# Using an Amazon S3 trigger to create thumbnail images - Terraform
 
 ## Video
 
@@ -16,7 +16,7 @@ We will create and configure a Lambda function that resizes images added to an A
 
 ## Architecture Diagram
 
-![Deploy NextJS App to S3 and CloudFront with Github Actions - Terraform](/architecture-diagram/S3TriggerToCreateThumbnailImages.png)
+![Deploy NextJS App to S3 and CloudFront with Github Actions - Terraform](/architecture-diagram/S3TriggerToCreateThumbnailImagesTerraformDark.png)
 
 ## Project Walkthrough
 
